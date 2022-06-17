@@ -1,0 +1,32 @@
+.flexbox{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 55px;
+    background-color: rgba(67, 1, 105, 0.74);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+button{
+    background-color: rgba(67, 1 ,105, 0.74);
+    height: 35px;
+    border: 1px solid white ;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.search-bar{
+    width: 500px;
+    border: none;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 20px;
+}
+.download-btn{
+
+}

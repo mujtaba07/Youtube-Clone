@@ -1,0 +1,23 @@
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 140px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 350px;
+}
+.noti,.mes,.home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 12px;  
+}
+button{
+    background-color: rgb(66, 109, 253);
+    border: none ;
+    border-radius: 11px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,21 @@
+.usd {
+  font-family: arial;
+  font-size: 16px;
+  color: grey;
+}
+.price {
+  font-family: arial;
+}
+p {
+  font-family: arial;
+}
+.today {
+  color: green;
+}
+.hours {
+  color: gray;
+  font-family: arial;
+}
+.negative {
+  color: red;
+}

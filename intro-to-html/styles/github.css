@@ -1,0 +1,21 @@
+.sign-up-button {
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .sign-up-button:hover {
+    background-color: rgb(0, 238, 12);
+    color: black;
+  }
+  .sign-up-button:active {
+    opacity: 0.5;
+  }

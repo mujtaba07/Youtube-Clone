@@ -1,0 +1,37 @@
+img {
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 22px;
+  vertical-align: middle;
+}
+.text-box {
+  font-size: 14px;
+  font-family: arial;
+  border: none;
+  width: 200px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  vertical-align: middle;
+  margin-left: 8px;
+  margin-right: 90px;
+}
+.text-box:active {
+  border: none;
+}
+.button {
+  font-weight: bold;
+  font-family: arial;
+  border-radius: 15px;
+  color: white;
+  background-color: rgb(56, 167, 241);
+  border: none;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  vertical-align: middle;
+}

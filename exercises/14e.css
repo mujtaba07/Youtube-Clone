@@ -1,0 +1,50 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 10;
+    left: 0;
+    right: 0;
+}
+.img{
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.name{
+    display: inline-block;
+}
+.button1{
+background-color: rgb(103, 103, 248);
+border-radius: 8px;
+color: white;
+height: 35px;
+width: 120px;
+border: none;
+}
+.button2{
+    background-color: rgb(226, 217, 217);
+    border-radius: 8px;
+    color: black;
+    height: 35px;
+    border: none;
+width: 120px;
+
+
+    }
+    .left-section{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-left: 40px;
+    }
+    .right-section{
+    margin-right: 70px;
+    }
+    .name{
+        margin-left: 15px;
+    }
+    

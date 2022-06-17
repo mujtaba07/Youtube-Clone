@@ -1,0 +1,22 @@
+.freecode {
+  font-family: arial;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.codecamp {
+  font-family: arial;
+  color: gray;
+  margin-bottom: 0px;
+}
+.webdev {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.lastline {
+  font-family: arial;
+  margin-top: 0px;
+}
+a {
+  color: rgb(73, 148, 233);
+}

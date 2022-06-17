@@ -1,0 +1,11 @@
+.gray{
+    height: 180px;
+    width: 320px;
+    background-color: gray;
+    position: fixed;
+   bottom: 20px;
+    right: 10px;
+}
+body{
+    height: 3000px;
+}

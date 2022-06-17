@@ -1,0 +1,28 @@
+.email{
+    color: grey;
+    font-family: arial;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+.textbox{
+    width: 330px;
+    height: 20px;
+    margin-bottom: 0px;
+}
+.para{
+    font-family: arial;
+    font-size: 14px;
+}
+.button{
+    background-color: rgb(27, 100, 236);
+    color: white;
+    border: none;
+    font-weight: bold;
+    border: 12px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 130px;
+    padding-right: 130px;
+    border-radius: 18px;
+}

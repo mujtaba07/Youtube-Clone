@@ -1,0 +1,65 @@
+body{
+font-family: arial,Roboto;
+font-size: 16px;
+}
+.cat-img{
+    margin-left: 5px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.right-section{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.username{
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.userid{
+    color: rgb(150, 146, 146);
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.firstline{
+    margin-bottom: 5px;
+}
+.inner-flexbox{
+    padding-top:10px;
+    width: 450px;
+ box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+    display: flex;
+    flex-direction: row;
+}
+.outer-flexbox{
+ display: flex;
+ flex-direction: column;
+ height: 200px;
+ width: 450px;
+ box-shadow: 1px 2px 5px rgba(0,0,0,0.15);
+}
+.graybox{
+    background-color: rgb(179, 178, 178);
+    width: 120px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+}
+.youtube-com{
+    color: gray;
+    margin: 10px;
+}
+.title{
+    color: black;
+}
+.bottom-section{
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    height: 80px;
+    width:320px;
+    margin-top: 15px;
+    border: 1px solid rgb(161, 158, 158);
+    margin-left: 80px;  
+}

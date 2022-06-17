@@ -1,0 +1,46 @@
+.container{
+    height:240px;
+    display: inline-block;
+    width:270px;
+    position: relative;
+    background-color: lightcoral;
+
+}
+.image{
+    height: 210px;
+    width: 250px;
+    position: absolute;
+    object-fit: cover;
+    top:10px;
+    left: 10px;
+    position: relative;
+}
+.discount{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.white-container{
+    position: absolute;
+    height: 85px;
+    width: 270px;
+    background-color: rgba(255, 254, 254, 0.5);
+    bottom: 0px;
+}
+.button{
+    position: absolute;
+    height: 34px;
+    width: 100px;
+    font-size: 14px;
+    top: 22px;
+    right: 85px
+
+    
+}
